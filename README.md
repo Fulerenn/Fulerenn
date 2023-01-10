@@ -1,5 +1,5 @@
 # 👋 Heya, I'm Maciej
-professional nub
+professional nub from "Dancing Cow" country
 
 # 🔭 Something about me
 I'm a regular guy that knows how to do **many** things and **never** finishes them...
