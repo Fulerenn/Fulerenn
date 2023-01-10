@@ -11,7 +11,7 @@ I'm a regular guy that knows how to do **many** things and **never** finishes th
 - Java (~3 years)
 - Assembler x86 and x64 (~1 year)
 
-### DevOps (learning it)
+### 💻 DevOps (learning it)
 - I'm still learning linux commands
 - I have no idea how to setup the best way possible vps (or dedicated)
 - I know how to manage servers
@@ -19,22 +19,22 @@ I'm a regular guy that knows how to do **many** things and **never** finishes th
 
 So overall, I would not consider myself a DevOps - but why not :D
 
-### Voice mixer/masterer
+### 🎙️ Voice mixer/masterer
 
-### 2D Artist
+### 🖌️ 2D Artist
 * Image Manilupation (learning it)
 * Designer
 * Animator
 * Video editor
 * Color grader (learning it - or more like mastering it to perfection 👌)
 
-### 3D Artist
+### 🧱 3D Artist
 * Animator (learinng it)
 * Modeler (I kinda know it... but you are always learning new things when modeling 🤣)
 
-### Did beats few times - terrible
+### 🎵 Did beats few times - terrible
 
-### Reverse Engineer (x86 and x64)
+### ◀️ Reverse Engineer (x86 and x64)
 
 ``I also programmed in languages like Rust, Lua or Kotlin, but I'm not that much expirienced with them to call it as a "familiar programming language".``
 
