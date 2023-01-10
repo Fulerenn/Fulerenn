@@ -5,10 +5,10 @@ professional nub from "Dancing Cow" country
 I'm a regular guy that knows how to do **many** things and **never** finishes them...
 
 ### ⌨️ Programmer
-- C++ (~2 Years)
-- JavaScript family languages (~4 Years)
-- Python (~1 Year, using it only for automation scripts)
-- Java (~3 Years)
+- C++ (~2 years)
+- JavaScript family languages (~4 years)
+- Python (~1 year, using it only for automation scripts)
+- Java (~3 years)
 
 ### Voice mixer/masterer
 
