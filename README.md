@@ -1,5 +1,5 @@
 # 👋 Heya, I'm Maciej
-professional nub from "Dancing Cow" country
+professional nub from "Dancing Cow" country (🇵🇱 Poland)
 
 # 🔭 Something about me
 I'm a regular guy that knows how to do **many** things and **never** finishes them...
@@ -32,9 +32,9 @@ I also programmed in languages like Rust, Lua or Kotlin, but I'm not that much e
 
 * Note that there is probably more, but It just doesn't come to my mind
 
-# 🤓 Any hobby nerdo?
+# 🪨 Any hobby nerdo?
 Yeah I have a few. I enjoy creating new things (software, but I'm interested in creating a hardware!)
 
 # 📫 Contact me
-    Discord (egzystencja#4668)
-    Email (if I'll be brave enough lmao)
+- Discord (egzystencja#4668)
+- Email (if I'll be brave enough lmao)
