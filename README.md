@@ -11,6 +11,14 @@ I'm a regular guy that knows how to do **many** things and **never** finishes th
 - Java (~3 years)
 - Assembler x86 and x64 (~1 year)
 
+### DevOps (learning it)
+- I'm still learning linux commands
+- I have no idea how to setup the best way possible vps (or dedicated)
+- I know how to manage servers
+- I know how to operate on servers
+
+So overall, I would not consider myself a DevOps - but why not :D
+
 ### Voice mixer/masterer
 
 ### 2D Artist
