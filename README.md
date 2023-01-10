@@ -28,9 +28,9 @@ I'm a regular guy that knows how to do **many** things and **never** finishes th
 
 ### Reverse Engineer (x86 and x64)
 
-I also programmed in languages like Rust, Lua or Kotlin, but I'm not that much expirienced with them to call it as a "familiar programming language".
+``I also programmed in languages like Rust, Lua or Kotlin, but I'm not that much expirienced with them to call it as a "familiar programming language".``
 
-* Note that there is probably more, but It just doesn't come to my mind
+``* Note that there is probably more, but It just doesn't come to my mind``
 
 # 🪨 Any hobby nerdo?
 Yeah I have a few. I enjoy creating new things (software, but I'm interested in creating a hardware!)
