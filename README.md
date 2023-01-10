@@ -9,6 +9,7 @@ I'm a regular guy that knows how to do **many** things and **never** finishes th
 - JavaScript family languages (~4 years)
 - Python (~1 year, using it only for automation scripts)
 - Java (~3 years)
+- Assembler x86 and x64 (~1 year)
 
 ### Voice mixer/masterer
 
