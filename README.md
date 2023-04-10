@@ -17,7 +17,7 @@ Also I can say that I'm a fluent speaker of English, but my native one is Polish
 ### 💻 DevOps (learning it)
 - I'm still learning linux (overall I'm still a noob)
 - I have no idea how to setup vps in the best way
-- I know how to manage and work on servers
+- I know how to manage and work on a servers
 
 * overall I would not consider myself a DevOps but it makes my readme longer so why not
 
