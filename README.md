@@ -4,7 +4,7 @@ professional nub from "Dancing Cow" country (🇵🇱 Poland)
 # 🔭 Something about me
 I'm a regular guy that knows how to do **many** things but **never** finishes them
 
-Also I can say that I'm a fluent speaker of English, but my native one is Polish. One day I want to learn Japaneese so I can prank weebs.
+Also I can say that I'm a fluent speaker of English, but my native one is Polish.
 
 ### ⌨️ Programmer
 - C++ (~2 years)
