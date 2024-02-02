@@ -32,18 +32,3 @@ I'm just a guy that knows many things in computer science aspect. I also never f
 * Modeler
 * Texture(r?)
 * BAD UV MAKER LMAO
-
-### ◀️ Reverse Engineer (x86 and x64)
-- I'm pretty good at it ngl
-
-``I also programmed in languages like Rust or Kotlin, but I'm not that much expirienced with them to call it as a "familiar programming language" for me.``
-
-``* Note that there is for sure more things that I could write there but nothing comes to my mind for now - too bad``
-
-# 🪨 Any hobby nerdo?
-I have a few
-
-# 📫 Contact me
-- Discord (egzystencja#4668)
-
-also bruh you are sick that ya read that whole readme
