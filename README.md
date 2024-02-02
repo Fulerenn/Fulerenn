@@ -1,43 +1,37 @@
 # 👋 Heya, I'm Maciej
-professional nub from "Dancing Cow" country (🇵🇱 Poland)
+professional nub from Poland
 
 # 🔭 Something about me
-I'm a regular guy that knows how to do **many** things but **never** finishes them
-
-Also I can say that I'm a fluent speaker of English, but my native one is Polish.
+I'm just a guy that knows many things in computer science aspect. I also never finish my project. Kind of fluent in English, although my primary (and thus, native) language is Polish.
 
 ### ⌨️ Programmer
-- C++ (~2 years)
-- JavaScript family languages (~4 years)
-- Python (~1 year, using it only for automation scripts)
-- Java (~3 years)
-- Assembler x86 and x64 (~1 year)
-- Other "smaller" or less-known languages
+- C++ (~3 years)
+- JavaScript family languages (~5 years)
+- Python (~2 year, using it only for automation scripts)
+- Java (~4 years)
+- Assembler x86 and x64 (~2 year)
+- Other languages which I don't remember as of writing this terrible readme (i need to rework it)
 
-### 💻 DevOps (learning it)
-- I'm still learning linux (overall I'm still a noob)
-- I have no idea how to setup vps in the best way
-- I know how to manage and work on a servers
+### 🛠️ Reverse Engineering
+- Binary (x86 and 86_64)
+- APK apps
+- Probably more which I didn't listed
 
-* overall I would not consider myself a DevOps but it makes my readme longer so why not
+### 💻 DevOps
+### 🎵 Music Producer
 
-### 🎙️ Voice mixer/masterer
-- As the title says
-
-### 🖌️ 2D Artist
-* Image Manilupation (learning it)
-* Designer
-* Animator
-* Video editor
-* Color grader (learning it)
+### 🖌️ 2D Artist (NOT HAND-DRAWN)
+- Designer
+- Animator
+- Video editor
+- Color grader
+- Probably much more
 
 ### 🧱 3D Artist
-* Animator (learning it)
-* Modeler (I kinda know it... but ya know - with modeling you always discover new paths to do things 2 times easier 🤣)
-* Texturer (learning it - terrible now)
-
-### 🎵 Did music few times - terrible
-- I know basic music theory tho
+* Animator
+* Modeler
+* Texture(r?)
+* BAD UV MAKER LMAO
 
 ### ◀️ Reverse Engineer (x86 and x64)
 - I'm pretty good at it ngl
