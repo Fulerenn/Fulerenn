@@ -1,7 +1,5 @@
-I'm just a guy that knows many things in computer science aspect. I also never finish my projects. Kind of fluent in English, although my primary language is Polish.
+Kinda good at computers. Never finishing projects :d
 
-* Intermediate binary Reverse Engineer
-* Programmer - C(++), JavaScript, TypeScript, Python, Java
-* Terrible 3D artist (UVs go brr)
-* 2D Artist (Web Designer, Animator, Video Editor)
-* Music producer
+* x86/x64 binary reverse engineer
+* Programmer in C(++), JavaScript, TypeScript, Python, Java, Lua
+
