@@ -1,5 +1,6 @@
-Kinda good at computers. Never finishing projects :d
+Kinda good at computers. Almost never finishing projects :d
 
-* x86/x64 binary reverse engineer
-* Programmer in C(++), JavaScript, TypeScript, Python, Java, Lua
+* x86/x86_64 binary reverse engineer
+* programmer primarly in C++ (but also Type/JavaScript, Python and Java)
 
+fully self-taught hobbyist
